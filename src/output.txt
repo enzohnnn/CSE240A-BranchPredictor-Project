@@ -1,0 +1,78 @@
+custom
+
+Branches:           1546797
+Incorrect:            15212
+Misprediction Rate:   0.983
+
+Branches:           2422049
+Incorrect:            31625
+Misprediction Rate:   1.306
+
+Branches:           3014850
+Incorrect:            38058
+Misprediction Rate:   1.262
+
+Branches:           2563897
+Incorrect:           175781
+Misprediction Rate:   6.856
+
+Branches:           3771697
+Incorrect:           326789
+Misprediction Rate:   8.664
+
+Branches:           3755315
+Incorrect:            12904
+Misprediction Rate:   0.344
+
+tournament:9:10:10
+
+Branches:           1546797
+Incorrect:            15236
+Misprediction Rate:   0.985
+
+Branches:           2422049
+Incorrect:            71866
+Misprediction Rate:   2.967
+
+Branches:           3014850
+Incorrect:            77973
+Misprediction Rate:   2.586
+
+Branches:           2563897
+Incorrect:           217323
+Misprediction Rate:   8.476
+
+Branches:           3771697
+Incorrect:           476005
+Misprediction Rate:  12.620
+
+Branches:           3755315
+Incorrect:            15891
+Misprediction Rate:   0.423
+
+gshare:13
+
+Branches:           1546797
+Incorrect:            12765
+Misprediction Rate:   0.825
+
+Branches:           2422049
+Incorrect:            40641
+Misprediction Rate:   1.678
+
+Branches:           3014850
+Incorrect:           201871
+Misprediction Rate:   6.696
+
+Branches:           2563897
+Incorrect:           259929
+Misprediction Rate:  10.138
+
+Branches:           3771697
+Incorrect:           521958
+Misprediction Rate:  13.839
+
+Branches:           3755315
+Incorrect:            15776
+Misprediction Rate:   0.420
+
